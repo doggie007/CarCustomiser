@@ -18,6 +18,8 @@
 		1ED9E5F42790CD6E0060E9CA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
 		1ED9E5F52790CD6E0060E9CA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
 		1ED9E5FA2790CE1B0060E9CA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
+		1EF333CA279458B300378F89 /* StarterCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF333C9279458B300378F89 /* StarterCars.swift */; };
+		1EF333CB279458B300378F89 /* StarterCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF333C9279458B300378F89 /* StarterCars.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,7 @@
 		1ED9E5D82790CC560060E9CA /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		1ED9E5DA2790CC560060E9CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1ED9E5F32790CD6E0060E9CA /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		1EF333C9279458B300378F89 /* StarterCars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterCars.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,7 @@
 				1ED9E5B32790CC540060E9CA /* ContentView.swift */,
 				1ED9E5B42790CC560060E9CA /* Assets.xcassets */,
 				1ED9E5F32790CD6E0060E9CA /* Car.swift */,
+				1EF333C9279458B300378F89 /* StarterCars.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -315,6 +319,7 @@
 			files = (
 				1ED9E5DD2790CC570060E9CA /* ContentView.swift in Sources */,
 				1ED9E5DB2790CC560060E9CA /* CarCustomiserApp.swift in Sources */,
+				1EF333CA279458B300378F89 /* StarterCars.swift in Sources */,
 				1ED9E5F42790CD6E0060E9CA /* Car.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -335,6 +340,7 @@
 			files = (
 				1ED9E5FA2790CE1B0060E9CA /* Car.swift in Sources */,
 				1ED9E5CE2790CC560060E9CA /* Tests_iOS.swift in Sources */,
+				1EF333CB279458B300378F89 /* StarterCars.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
