@@ -18,6 +18,7 @@
 		1ED9E5F42790CD6E0060E9CA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
 		1ED9E5F52790CD6E0060E9CA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
 		1ED9E5FA2790CE1B0060E9CA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
+		1EEBB795279738B40074333A /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED9E5F32790CD6E0060E9CA /* Car.swift */; };
 		1EF333CA279458B300378F89 /* StarterCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF333C9279458B300378F89 /* StarterCars.swift */; };
 		1EF333CB279458B300378F89 /* StarterCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF333C9279458B300378F89 /* StarterCars.swift */; };
 /* End PBXBuildFile section */
@@ -348,6 +349,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EEBB795279738B40074333A /* Car.swift in Sources */,
 				1ED9E5D92790CC560060E9CA /* Tests_macOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
